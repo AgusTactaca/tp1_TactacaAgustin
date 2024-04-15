@@ -16,6 +16,7 @@ public class Main {
 			numero = numero * 2;
 			System.out.println("El numero ingresado es impar, se muetras el doble del valor: " + numero);
 		}
+		sc.close();
 	}
 
 }
